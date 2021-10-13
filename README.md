@@ -1,3 +1,23 @@
+Build News apllication with latest technologies like reacts js,redux-toolkir,ant design and rapid api.
+All data fetch with help of rapid api.
+
+![image](https://user-images.githubusercontent.com/34640475/137079704-9c23c3f5-6dfe-4932-a352-5a0ee7786bf5.png)
+
+Key Features
+    
+    Get Latest News
+    Different Categories news.
+    Rapid api used for all data.
+    Super responsive.
+    Client Side routing.
+    
+Key Technologies
+
+    React.js
+    Redux Toolkit
+    Ant Design
+    Rapid APi
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
